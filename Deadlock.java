@@ -35,6 +35,7 @@ public class Deadlock {
         thread1.start();
         thread2.start();
     }
+	//book
 
 	public static void main(String[] args) {
 		Deadlock library = new Deadlock();
